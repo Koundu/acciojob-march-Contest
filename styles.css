@@ -1,0 +1,21 @@
+*{
+    background-color: rgba(0, 0, 0, 0.808); 
+    width: auto;
+    height: auto;
+}
+
+.search{
+    float: left;
+    margin: 7px;
+}
+
+.button{
+    width: 70px;
+    height: 35px;
+    border-radius: 10px;
+    color: white;
+    font-size: large;
+    background-color: rgba(19, 18, 18, 0.534);
+}
+
+
